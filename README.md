@@ -70,6 +70,10 @@ attribution flags and the AI-generated flag taken from the listing.
 - Buying is out of scope. No purchase code path exists.
 - Fab's web API is undocumented and may change without notice.
 
+## See also
+
+- [sfabcli](https://github.com/eiei114/sfabcli) — the same approach for Sketchfab
+
 ## License
 
 MIT
