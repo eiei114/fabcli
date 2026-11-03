@@ -1,0 +1,29 @@
+{
+  "name": "fabcli",
+  "version": "0.1.0",
+  "description": "CLI for the Fab marketplace that borrows your logged-in Chrome over CDP",
+  "type": "module",
+  "bin": {
+    "fab": "./fab.mjs"
+  },
+  "files": [
+    "fab.mjs",
+    "import-session.mjs"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "keywords": [
+    "fab",
+    "epic-games",
+    "3d-assets",
+    "cli",
+    "cdp",
+    "chrome-devtools-protocol"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eiei114/fabcli.git"
+  }
+}
